@@ -1,5 +1,5 @@
 // Backend Service Integration
-const BACKEND_URL = 'https://script.google.com/macros/s/AKfycbyaMQqfD8YH6dH9KvhFEGahXSFQRP8Xtm3yKuAlguxVvcibqM0FYtR_GVM0TL4iybeB/exec';
+const BACKEND_URL = 'https://script.google.com/macros/s/AKfycbxjmkF720O-FUCcXPAD8uDf1n5dMTU4O2q-iH-A1Q9YYjxgCVeZTgRH7gVBOaNUE9dH/exec';
 
 class BackendService {
     constructor() {
